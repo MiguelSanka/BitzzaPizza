@@ -1,0 +1,359 @@
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.exe.config
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.exe
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.pdb
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csprojAssemblyReference.cache
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.Properties.Resources.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.GenerateResource.cache
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CoreCompileInputs.cache
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.exe
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.pdb
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Licensing.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.exe.licenses
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CopyComplete
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\BitzzaPizza.exe.config
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\BitzzaPizza.exe
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\BitzzaPizza.pdb
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.Licensing.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.csprojAssemblyReference.cache
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.Properties.Resources.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.GenerateResource.cache
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.exe.licenses
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CoreCompileInputs.cache
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CopyComplete
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.exe
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.pdb
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.Fm_Ganancias.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Stock.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Inicio.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Login.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Main.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Menu.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Caja.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_InfoVenta.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ticket.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\bin\Debug\Calendario.dll
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_logout.resources
+C:\Users\smigu\Desktop\bosquejo\BitzzaPizza copia\BitzzaPizza\obj\Debug\BitzzaPizza.fm_ErrLogin.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_ErrLogin.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ganancias.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_InfoVenta.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_logout.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Menu.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Inicio.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Login.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Main.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ticket.resources
+C:\Users\smigu\Desktop\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Caja.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.exe.config
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.exe
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.pdb
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Licensing.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csprojAssemblyReference.cache
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_ErrLogin.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ganancias.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_InfoVenta.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_logout.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Menu.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Inicio.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Login.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Main.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ticket.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.Properties.Resources.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Caja.resources
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.GenerateResource.cache
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.exe.licenses
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CoreCompileInputs.cache
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CopyComplete
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.exe
+C:\Users\janto\OneDrive\Escritorio\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.pdb
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.exe.config
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.exe
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\BitzzaPizza.pdb
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.AssemblyReference.cache
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_ErrLogin.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ganancias.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_InfoVenta.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_logout.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Menu.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Inicio.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Login.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Main.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Ticket.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.Properties.Resources.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.fm_Caja.resources
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.GenerateResource.cache
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.exe.licenses
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.csproj.CopyComplete
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.exe
+C:\Users\Miguel Sanka\Desktop\LPOO PIA\BitzzaPizza\BitzzaPizza\obj\Debug\BitzzaPizza.pdb

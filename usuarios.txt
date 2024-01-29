@@ -1,0 +1,6 @@
+1,Miguel,777
+2,Juan,001
+3,Pedro,007
+4,Cecilia,666
+5,Ernesto,000
+6,Ramón,111

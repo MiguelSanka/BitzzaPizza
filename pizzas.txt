@@ -1,0 +1,8 @@
+1,Pizza Pepperoni Clásica,80.0
+2,Pizza Hawaiiana,100.0
+3,Pizza 3 Carnes,140.0
+4,Pizza Ranchera,130.0
+5,Pizza Vegana,250.0
+6,Pizza de Mariscos,300.0
+7,Pizza de Doble Queso,95.0
+8,Pizza Napolitana,120.0
